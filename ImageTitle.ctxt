@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=ImageTitle
+comment0.text=\r\n\ a\ image\ of\ the\ title\ that\ moves\ slightly\ up\ and\ down.\r\n
+comment1.params=
+comment1.target=ImageTitle()
+comment2.params=
+comment2.target=void\ act()
+numComments=3

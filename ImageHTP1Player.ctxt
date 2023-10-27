@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=ImageHTP1Player
+comment0.text=\r\n\ An\ image\ with\ instructions\ for\ single\ player.\r\n
+comment1.params=
+comment1.target=ImageHTP1Player()
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ HowToPlayPlayer1\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+numComments=2

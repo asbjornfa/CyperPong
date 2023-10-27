@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=ButtonEnterGame
+comment0.text=\r\n\ a\ button\ that\ says\ <press\ enter\ to\ start>\r\n
+comment1.params=
+comment1.target=ButtonEnterGame()
+numComments=2

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=ButtonStart1P
+comment0.text=\r\n\ a\ clickable\ button\ that\ says\ <1\ player>.\r\n
+comment1.params=world
+comment1.target=ButtonStart1P(IntroWorld)
+comment1.text=\r\n\ Class\ constructor\ that\ takes\ a\ IntroWorld\ parameter\ called\ world,\ \r\n\ when\ an\ instance\ of\ ButtonStart1P\ is\ created,\ \r\n\ it\ receives\ a\ reference\ to\ "IntroWorld"\ and\ initializes\ the\ "introWorld"\ variable.\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ When\ the\ button\ is\ clicked,\ it\ changes\ world\ to\ HowToPlay1Player,\ plays\ a\ click\ sound\ and\r\n\ checks\ if\ introWorld\ refers\ to\ IntroWorld,\ if\ it\ does\ (is\ not\ null),\ it\ calls\ the\ method\ stopIntroMusic\ from\ IntroWorld.\r\n
+numComments=3

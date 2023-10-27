@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=PingWorld
+comment0.text=\r\n\ The\ Ping\ World\ is\ where\ Balls\ and\ Paddles\ meet\ to\ play\ pong.\r\n
+comment1.params=gameStarted
+comment1.target=PingWorld(boolean)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ PingWorld.\r\n
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ initializeGameObjects()
+comment3.text=\r\n\ adds\ initial\ objects\ to\ the\ world.\r\n
+comment4.params=
+comment4.target=void\ initializeGameSounds()
+comment4.text=\r\n\ modify\ and\ start\ initial\ sounds.\r\n
+comment5.params=
+comment5.target=void\ PaddleBotsRespawn()
+comment5.text=\r\n\ Checking\ for\ any\ objects\ of\ PaddleBotLeft\ and\ PaddleBotRight\ class.\ \r\n\ If\ there\ isn't\ any\ of\ one\ or\ the\ other,\ adds\ one.\r\n
+comment6.params=
+comment6.target=void\ Gameover()
+comment6.text=\r\n\ if\ loosing\ conditions\ are\ met,\ adds\ game\ over\ button.\r\n
+comment7.params=
+comment7.target=void\ Victory()
+comment7.text=\r\n\ if\ winning\ conditions\ are\ met,\ adds\ game\ over\ button.\r\n
+comment8.params=
+comment8.target=void\ stopGameMusic()
+comment8.text=\r\n\ method\ to\ stop\ gameMusic,\ if\ it\ is\ playing.\r\n
+numComments=9
